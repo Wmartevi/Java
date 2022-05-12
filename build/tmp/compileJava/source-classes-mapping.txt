@@ -1,4 +1,0 @@
-academy/devdojo/maratonajava/basic/TiposPrimitivos.java
- academy.devdojo.maratonajava.basic.TiposPrimitivos
-academy/devdojo/maratonajava/basic/Operadores.java
- academy.devdojo.maratonajava.basic.Operadores
