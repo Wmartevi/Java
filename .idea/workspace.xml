@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="635c65cd-e460-4d9d-a21e-5eab88571494" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/basic/EstruturaCondicionaisExercicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/basic/EstruturaCondicionaisTernario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/basic/EstruturasCondicionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/basic/EstruturasCondicionais.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +33,9 @@
       <recent name="C:\java\Java\src\academy\devdojo\maratonajava\basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EstruturaCondicionaisExercicio">
-    <configuration name="EstruturaCondicionaisExercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.EstruturaCondicionaisExercicio" />
+  <component name="RunManager" selected="Application.Arrays01">
+    <configuration name="Arrays01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.Arrays01" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -50,8 +47,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstruturaCondicionaisTernario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.EstruturaCondicionaisTernario" />
+    <configuration name="EstruturaCondicionaisExercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.EstruturaCondicionaisExercicio2" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstruturasCondicionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.EstruturasCondicionais" />
+    <configuration name="EstruturasDeRepeticao01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.EstruturasDeRepeticao01" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.Operadores" />
+    <configuration name="EstruturasDeRepeticaoExecicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.EstruturasDeRepeticaoExecicio01" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TiposPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.TiposPrimitivos" />
+    <configuration name="EstruturasDeRepeticaoExercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.EstruturasDeRepeticaoExercicio02" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EstruturaCondicionaisExercicio" />
-        <item itemvalue="Application.EstruturaCondicionaisTernario" />
-        <item itemvalue="Application.EstruturasCondicionais" />
-        <item itemvalue="Application.TiposPrimitivos" />
-        <item itemvalue="Application.Operadores" />
+        <item itemvalue="Application.Arrays01" />
+        <item itemvalue="Application.EstruturasDeRepeticaoExercicio02" />
+        <item itemvalue="Application.EstruturasDeRepeticaoExecicio01" />
+        <item itemvalue="Application.EstruturasDeRepeticao01" />
+        <item itemvalue="Application.EstruturaCondicionaisExercicio2" />
       </list>
     </recent_temporary>
   </component>
@@ -133,5 +130,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
