@@ -33,7 +33,7 @@
       <recent name="C:\java\Java\src\academy\devdojo\maratonajava\basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Arrays01">
+  <component name="RunManager" selected="Application.ArraysMultidimensionais02">
     <configuration name="Arrays01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.Arrays01" />
       <module name="Java" />
@@ -47,8 +47,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstruturaCondicionaisExercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.EstruturaCondicionaisExercicio2" />
+    <configuration name="Arrays02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.Arrays02" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstruturasDeRepeticao01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.EstruturasDeRepeticao01" />
+    <configuration name="Arrays03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.Arrays03" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstruturasDeRepeticaoExecicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.EstruturasDeRepeticaoExecicio01" />
+    <configuration name="ArraysMultidimensionais01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.ArraysMultidimensionais01" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstruturasDeRepeticaoExercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.EstruturasDeRepeticaoExercicio02" />
+    <configuration name="ArraysMultidimensionais02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.ArraysMultidimensionais02" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraysMultidimensionais02" />
+        <item itemvalue="Application.ArraysMultidimensionais01" />
+        <item itemvalue="Application.Arrays03" />
+        <item itemvalue="Application.Arrays02" />
         <item itemvalue="Application.Arrays01" />
-        <item itemvalue="Application.EstruturasDeRepeticaoExercicio02" />
-        <item itemvalue="Application.EstruturasDeRepeticaoExecicio01" />
-        <item itemvalue="Application.EstruturasDeRepeticao01" />
-        <item itemvalue="Application.EstruturaCondicionaisExercicio2" />
       </list>
     </recent_temporary>
   </component>
