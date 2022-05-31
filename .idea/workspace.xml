@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="635c65cd-e460-4d9d-a21e-5eab88571494" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/metodos/dominio/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/metodos/dominio/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/metodos/test/CalculadoraTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/metodos/test/CalculadoraTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,20 +36,7 @@
       <recent name="C:\java\Java\src\academy\devdojo\maratonajava\basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalculadoraTest01">
-    <configuration name="ArraysMultidimensionais01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.ArraysMultidimensionais01" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EstudanteTest01">
     <configuration name="ArraysMultidimensionais02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.basic.ArraysMultidimensionais02" />
       <module name="Java" />
@@ -100,13 +89,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EstudanteTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.metodos.test.EstudanteTest01" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.metodos.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EstudanteTest01" />
         <item itemvalue="Application.CalculadoraTest01" />
         <item itemvalue="Application.ClassesTest02" />
         <item itemvalue="Application.ClassesTest01" />
         <item itemvalue="Application.ArraysMultidimensionais02" />
-        <item itemvalue="Application.ArraysMultidimensionais01" />
       </list>
     </recent_temporary>
   </component>

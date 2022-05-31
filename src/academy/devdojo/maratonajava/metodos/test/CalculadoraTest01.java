@@ -11,5 +11,7 @@ public class CalculadoraTest01 {
 
         double resultado = calculadora.divideDoisNumeros(3,0);
         System.out.println(resultado);
+
+        calculadora.imprimeDivisaoDeDoisNumeros(10,2);
     }
 }
