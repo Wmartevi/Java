@@ -33,14 +33,17 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\java\Java\src\academy\devdojo\maratonajava\basic" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.modificadorestatico.dominio" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.FilmeTest01">
-    <configuration name="CalculadoraTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.metodos.test.CalculadoraTest01" />
+  <component name="RunManager" selected="Application.JogadorTest03">
+    <configuration name="AnimeTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.modificadorestatico.test.AnimeTest01" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.metodos.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.modificadorestatico.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -48,12 +51,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilmeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.construtores.test.FilmeTest01" />
+    <configuration name="EscolaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.associacao.test.EscolaTest01" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.construtores.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.associacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncionarioTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.metodos.test.FuncionarioTest01" />
+    <configuration name="JogadorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.associacao.test.JogadorTest01" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.metodos.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.associacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PessoaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.metodos.test.PessoaTest01" />
+    <configuration name="JogadorTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.associacao.test.JogadorTest02" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.metodos.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.associacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeriadosTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.sobrecargametodos.test.SeriadosTest01" />
+    <configuration name="JogadorTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.associacao.test.JogadorTest03" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.sobrecargametodos.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.associacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FilmeTest01" />
-        <item itemvalue="Application.SeriadosTest01" />
-        <item itemvalue="Application.PessoaTest01" />
-        <item itemvalue="Application.FuncionarioTest01" />
-        <item itemvalue="Application.CalculadoraTest01" />
+        <item itemvalue="Application.JogadorTest03" />
+        <item itemvalue="Application.EscolaTest01" />
+        <item itemvalue="Application.JogadorTest02" />
+        <item itemvalue="Application.JogadorTest01" />
+        <item itemvalue="Application.AnimeTest01 (1)" />
       </list>
     </recent_temporary>
   </component>
